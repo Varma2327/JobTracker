@@ -1,0 +1,7 @@
+POST http://localhost:5000/api/jobs
+Content-Type: application/json
+
+{
+  "company": "Google",
+  "position": "Software Engineer"
+}
